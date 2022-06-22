@@ -1,9 +1,9 @@
 <h1 align="center">Oi👋, eu sou Abner Rodrigues</h1>
 <h3 align="center">Apaixonado por análise de dados e tecnologia</h3>
 
-- 🌱 atualmente estou aprendendo **Data Analytics**
+- 🌱 Atualmente estou aprendendo **Data Analytics**
 
-- 💬 me pergunte sobre **SQL, Power Bi e Excel**
+- 💬 Me pergunte sobre **SQL, Power Bi e Excel**
 
 - 📫 Você me acha através do e-mail **brcabner@gmail.com**
 
