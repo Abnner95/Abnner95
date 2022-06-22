@@ -1,17 +1,17 @@
 <h1 align="center">Oi👋, eu sou Abner Rodrigues</h1>
 <h3 align="center">Apaixonado por análise de dados e tecnologia</h3>
 
-- 🌱 Atualmente estou aprendendo **Data Analytics**
+- 🌱 atualmente estou aprendendo **Data Analytics**
 
-- 💬 Me pergunte sobre **SQL, Power Bi e Excel**
+- 💬 me pergunte sobre **SQL, Power Bi e Excel**
 
 - 📫 Você me acha através do e-mail **brcabner@gmail.com**
 
-- 📄 você pode conferir minhas experiências através do linkedin [https://www.linkedin.com/in/abner-da-silva-rodrigues-b7802b84/](https://www.linkedin.com/in/abner-da-silva-rodrigues-b7802b84/)
+- 📄 você pode conferir minhas experiências através do linkedin [https://www.linkedin.com/in/abnner95b7802b84/](https://www.linkedin.com/in/abnner95b7802b84/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abner-da-silva-rodrigues-b7802b84/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abnner95b7802b84/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abner-da-silva-rodrigues-b7802b84/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abner-da-silva-rodrigues-b7802b84/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/abnerrodrigues3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abnerrodrigues3" height="30" width="40" /></a>
 </p>
 
