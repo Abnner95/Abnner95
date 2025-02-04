@@ -1,5 +1,5 @@
-<h1 align="center">Oi👋, eu sou Abner Rodrigues</h1>
-<h3 align="center">Apaixonado por análise de dados e tecnologia</h3>
+<h1 align="center">Abner Rodrigues</h1>
+<h3 align="center">Apaixonado por tecnologia</h3>
 
 - atualmente estou aprendendo **Data Analytics**
 
