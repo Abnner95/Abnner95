@@ -1,13 +1,13 @@
 <h1 align="center">Oi👋, eu sou Abner Rodrigues</h1>
 <h3 align="center">Apaixonado por análise de dados e tecnologia</h3>
 
-- 🌱 atualmente estou aprendendo **Data Analytics**
+- atualmente estou aprendendo **Data Analytics**
 
-- 💬 me pergunte sobre **SQL, Power Bi e Excel**
+- me pergunte sobre **Testes de Software, Cypress, Selenium, Python e Java **
 
-- 📫 Você me acha através do e-mail **brcabner@gmail.com**
+- Você me acha através do e-mail **brcabner@gmail.com**
 
-- 📄 você pode conferir minhas experiências através do linkedin [https://www.linkedin.com/in/abnner95b7802b84/](https://www.linkedin.com/in/abnner95b7802b84/)
+- você pode conferir minhas experiências através do linkedin https://www.linkedin.com/in/abnner95/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
