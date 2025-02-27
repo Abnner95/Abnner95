@@ -1,11 +1,11 @@
 <h1 align="center">Abner Rodrigues</h1>
 <h3 align="center">Apaixonado por tecnologia</h3>
 
-- atualmente estou aprendendo **Data Analytics**
+- Profissional capacitado em Qualidade de Software 
 
-- me pergunte sobre **Testes de Software, Cypress, Selenium, Python e Java **
+- conhecimento e vivência com Testes de Software, Cypress, Selenium, Python e C# **
 
-- Você me acha através do e-mail **brcabner@gmail.com**
+- Você me acha através do e-mail **brcabner@gmail.com** ou ** 11-942513307**
 
 - você pode conferir minhas experiências através do linkedin https://www.linkedin.com/in/abnner95/
 
