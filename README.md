@@ -1,32 +1,44 @@
+# Abner Rodrigues
+
 <h1 align="center">Abner Rodrigues</h1>
-<h3 align="center">Apaixonado por tecnologia</h3>
+<h3 align="center">Desenvolvedor Back-end | Java | SQL | Engenharia de Dados</h3>
 
-- Profissional capacitado em Qualidade de Software 
+### 👨‍💻 Sobre mim
 
-- conhecimento e vivência com Testes de Software, Cypress, Selenium, Python e C# **
+- Cursando MBA em Engenharia de Dados.
+- Técnico em Desenvolvimento de Sistemas e formado em Marketing.
+- Foco em Desenvolvimento Back-end com Java e Programação Orientada a Objetos (POO).
+- Conhecimentos em desenvolvimento de APIs, SQL, bancos de dados e integração de sistemas.
+- Experiência em análise de dados, ETL, BI e Qualidade de Software.
+- Vivência com Python, C#, Selenium e Cypress.
 
-- Você me acha através do e-mail **brcabner@gmail.com** ou ** 11-942513307**
+### 🛠️ Tecnologias e Ferramentas
 
-- você pode conferir minhas experiências através do linkedin https://www.linkedin.com/in/abnner95/
+**Desenvolvimento Back-end**
+- Java
+- C#
+- Python
+- SQL
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abnner95b7802b84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abnner95b7802b84" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/abnerrodrigues3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abnerrodrigues3" height="30" width="40" /></a>
-</p>
+**Dados e BI**
+- SQL Server
+- MySQL
+- BigQuery
+- Power BI
+- Looker Studio
+- Pandas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+**Qualidade de Software**
+- Selenium
+- Cypress
+- Testes de Software
 
+### 📫 Contato
 
-<!---
-- 👋 Hi, I’m @Abnner95
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- **E-mail:** brcabner@gmail.com
+- **Telefone:** 11 94251-3317
+- **LinkedIn:** [linkedin.com/in/abnner95](https://www.linkedin.com/in/abnner95)
 
+---
 
-Abnner95/Abnner95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Conectando desenvolvimento de software, dados e tecnologia.</h3>
